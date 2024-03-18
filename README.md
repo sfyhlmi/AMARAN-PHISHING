@@ -1,4 +1,4 @@
-# ⚠️ Amar! Anda telah menjadi mangsa serangan phishing!
+# ⚠️ Amaran! Anda telah menjadi mangsa serangan phishing!
 
 ---
 
@@ -20,8 +20,6 @@ Tindakan ini adalah sebahagian daripada ujian phishing yang dijalankan untuk men
 ---
 
 Kempen ini dianjurkan oleh  
-**Divisyen Pengurusan Keselamatan Siber**
+**Divisyen Pengurusan Keselamatan Siber Lembaga Zakat Negeri Kedah**
 
 ---
-
-![Lembaga Zakat Negeri Kedah Logo](C:\xampp\htdocs\lznkkk-removebg-preview.png)
